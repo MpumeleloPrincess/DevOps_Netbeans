@@ -12,5 +12,6 @@ public class Shabangu220138656 {
 
     public static void main(String[] args) {
         System.out.println("This is my make up test project class");
+        System.out.println("This is an added line to the class");
     }
 }
